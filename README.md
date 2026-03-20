@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Mario Daza 👋
 
-<!--
-**MarioDR25/MarioDR25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🎓 **Estudiante de Desarrollo Full Stack** ⏳ 
+- 💡 Me apasiona resolver problemas a través del código y aprender cada día.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📚 Mi Camino de Aprendizaje
+Actualmente estoy estudiando desarrollo web, dominando las bases:
+
+- 🌐 **Actualmente:** HTML5, CSS3, Bootstrap y JavaScript.
+- 🛠️ **Herramientas:** Git, GitHub y VS Code.
+- ⚙️ **Próximamente:** React, Python, Flask y SQL.
+
+### 🌱 Mis Objetivos
+- Construir proyectos reales y funcionales.
+- Colaborar en proyectos de código abierto.
+- Convertirme en un Desarrollador Full Stack sólido.
+
+---
