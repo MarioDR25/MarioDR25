@@ -6,17 +6,23 @@
 - 🎓 **Estudiante de Desarrollo Full Stack** ⏳ 
 - 💡 Me apasiona resolver problemas a través del código y aprender cada día.
 
+---
 
 ### 📚 Mi Camino de Aprendizaje
-Actualmente estoy estudiando desarrollo web, dominando las bases:
+Actualmente estoy dominando las bases y expandiendo mi stack hacia tecnologías modernas:
 
-- 🌐 **Actualmente:** HTML5, CSS3, Bootstrap y JavaScript.
-- 🛠️ **Herramientas:** Git, GitHub y VS Code.
-- ⚙️ **Próximamente:** React, Python, Flask y SQL.
+* 🌐 **Frontend:** HTML5, CSS3, JavaScript (ES6+).
+* ⚛️ **Frameworks:** React con **Next.js** (App Router & Server Actions).
+* 🎨 **Estilizado:** Tailwind CSS y Bootstrap.
+* 💻 **Lenguajes:** TypeScript.
+* ⚙️ **Backend & DB:** Node.js, Express.
+* 🛠️ **Herramientas:** Git, GitHub, VS Code y Cursor.
+
+---
 
 ### 🌱 Mis Objetivos
 - Construir proyectos reales y funcionales.
 - Colaborar en proyectos de código abierto.
 - Convertirme en un Desarrollador Full Stack sólido.
-
 ---
+
