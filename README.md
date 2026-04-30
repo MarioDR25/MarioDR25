@@ -15,7 +15,7 @@ Actualmente estoy dominando las bases y expandiendo mi stack hacia tecnologías 
 * ⚛️ **Frameworks:** React con **Next.js** (App Router & Server Actions).
 * 🎨 **Estilizado:** Tailwind CSS y Bootstrap.
 * 💻 **Lenguajes:** TypeScript.
-* ⚙️ **Backend & DB:** Node.js, Express.
+* ⚙️ **Backend:** Node.js, Express.
 * 🛠️ **Herramientas:** Git, GitHub, VS Code y Cursor.
 
 ---
