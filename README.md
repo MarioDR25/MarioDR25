@@ -39,7 +39,7 @@ public class SoftwareDeveloper
         ["Tools"]     = ["VS Code", "Visual Studio", "Cursor", "Git"]
     };
 
-    public List<string> CurrentlyLearning => new(){    ".NET Clean Architecture", "Microservices", "Azure Cloud" };
+    public List<string> CurrentlyLearning => new(){  ".NET Clean Architecture"  };
 
     public string FunFact => "I turn coffee into clean, scalable code ☕ → 💻";
 }
