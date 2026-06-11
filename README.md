@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Mario%20Daza&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Junior%20Software%20Developer%20%7C%20.NET&descSize=18&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Mario%20Daza&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20.NET&descSize=18&descAlignY=55" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-daza)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarioDR25)
@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey!+I'm+Mario+Daza+%F0%9F%91%8B;%F0%9F%92%BB+Junior+Software+Developer+(.NET);%F0%9F%93%8D+Based+in+Poland+%F0%9F%87%B5%F0%9F%87%B1;%F0%9F%94%A5+Open+to+Work+-+Let's+Build+Together!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey!+I'm+Mario+Daza+%F0%9F%91%8B;%F0%9F%92%BB+Software+Developer+(.NET);%F0%9F%93%8D+Based+in+Poland+%F0%9F%87%B5%F0%9F%87%B1;%F0%9F%94%A5+Open+to+Work+-+Let's+Build+Together!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,7 +27,7 @@
 public class SoftwareDeveloper
 {
     public string Name => "Mario Daza";
-    public string Role => "Junior Software Developer (.NET)";
+    public string Role => "Software Developer (.NET)";
     public string Location => "Poland 🇵🇱";
     public string Status => "Open to Work 🟢";
 
